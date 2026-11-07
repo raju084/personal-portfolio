@@ -1,7 +1,14 @@
 {
-  "name": "portfolio",
+  "name": "personal-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Production-grade personal portfolio of Bhagya Raju Nattala – Full-Stack Developer specializing in React, TypeScript, Django REST Framework, Node.js, and PostgreSQL.",
+  "author": "Bhagya Raju Nattala <nattalabhagyaraju@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raju084/personal-portfolio.git"
+  },
+  "homepage": "https://github.com/raju084/personal-portfolio#readme",
   "type": "module",
   "scripts": {
     "dev": "vite",

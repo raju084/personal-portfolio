@@ -1,8 +1,11 @@
-# Bhagya Raju Nattala – Professional Full-Stack Portfolio
+# Bhagya Raju Nattala – Personal Portfolio
 
-A high-performance, responsive developer portfolio showcasing enterprise full-stack web applications, technical skills, production experience, and credentials.
+[![GitHub Repo](https://img.shields.io/badge/GitHub-personal--portfolio-blue?logo=github)](https://github.com/raju084/personal-portfolio)
+[![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Tailwind-sky)](https://github.com/raju084/personal-portfolio)
 
-Built with **React 18**, **TypeScript**, **Tailwind CSS**, and **Vite**.
+> Production-grade personal portfolio of **Bhagya Raju Nattala**, Full-Stack Developer specializing in React.js, TypeScript, Django REST Framework, Node.js, PostgreSQL, Docker, and Machine Learning.
+
+Repository: [https://github.com/raju084/personal-portfolio](https://github.com/raju084/personal-portfolio)
 
 ---
 
