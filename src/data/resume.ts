@@ -13,6 +13,7 @@ export const profile = {
   email: "nattalabhagyaraju@gmail.com",
   linkedin: "https://linkedin.com/in/nattala-bhagya-raju-15215b271",
   github: "https://github.com/raju084",
+  liveUrl: "https://personal-portfolio-n1le8ll2l.vercel.app/",
   resumeUrl: "#contact", // Can be replaced with actual PDF file path in public/ or Google Drive link
   availability: "Available for Full-Time Roles & High-Impact Projects",
   summary:

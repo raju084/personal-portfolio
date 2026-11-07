@@ -1,15 +1,18 @@
 # Bhagya Raju Nattala – Personal Portfolio
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success?logo=vercel&logoColor=white)](https://personal-portfolio-n1le8ll2l.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-personal--portfolio-blue?logo=github)](https://github.com/raju084/personal-portfolio)
 [![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Tailwind-sky)](https://github.com/raju084/personal-portfolio)
 
 > Production-grade personal portfolio of **Bhagya Raju Nattala**, Full-Stack Developer specializing in React.js, TypeScript, Django REST Framework, Node.js, PostgreSQL, Docker, and Machine Learning.
 
-Repository: [https://github.com/raju084/personal-portfolio](https://github.com/raju084/personal-portfolio)
+- **🌐 Live Portfolio:** [https://personal-portfolio-n1le8ll2l.vercel.app/](https://personal-portfolio-n1le8ll2l.vercel.app/)
+- **📁 GitHub Repository:** [https://github.com/raju084/personal-portfolio](https://github.com/raju084/personal-portfolio)
 
 ---
 
 ## 🚀 Live Demo & Preview
+- **Live URL:** [https://personal-portfolio-n1le8ll2l.vercel.app/](https://personal-portfolio-n1le8ll2l.vercel.app/)
 - **Target Role:** Full-Stack Developer / Software Engineer
 - **Core Stack:** React.js, TypeScript, Django REST Framework, Node.js, PostgreSQL, Docker
 
